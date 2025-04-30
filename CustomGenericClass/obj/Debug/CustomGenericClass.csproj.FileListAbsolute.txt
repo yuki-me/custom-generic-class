@@ -1,0 +1,7 @@
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\bin\Debug\CustomGenericClass.exe.config
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\bin\Debug\CustomGenericClass.exe
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\bin\Debug\CustomGenericClass.pdb
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\obj\Debug\CustomGenericClass.csproj.AssemblyReference.cache
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\obj\Debug\CustomGenericClass.csproj.CoreCompileInputs.cache
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\obj\Debug\CustomGenericClass.exe
+E:\Practice Code\C# Code\ConsoleApp\CustomGenericClass\CustomGenericClass\obj\Debug\CustomGenericClass.pdb
